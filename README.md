@@ -26,3 +26,7 @@ Neste trabalho, o Arduino emissor receberá um caractere pela sua porta serial (
 ## Vídeo de Apresentação
 
 O vídeo de apresentação do projeto se encontra neste [LINK](https://youtu.be/96DKPb0xCZk).
+
+## Link do Repositório no GitHub
+
+O repositório do projeto no GitHub se encontra neste [LINK](https://github.com/giovanni-shibaki/SSC0142_Arduino).
